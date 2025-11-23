@@ -1,1 +1,1 @@
-# Data-Cleaning-and-Data-Manipukation-Projects
+# Data-Cleaning-and-Data-Manipulation-Projects
